@@ -37,7 +37,7 @@ class TestCurrencyConverter(unittest.TestCase):
 
     def test_convert_same_currency(self):
         result = self.converter.convert(50, "USD", "USD")
-        self.assertEqual(result, 900)
+        self.assertEqual(result, 50)
 
     def test_large_value_conversion(self):
         result = self.converter.convert(1_000_000, "EUR", "JPY")
