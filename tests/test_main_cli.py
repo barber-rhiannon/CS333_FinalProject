@@ -1,3 +1,7 @@
+# Author: Rhiannon Barber
+# Date: May 6
+# CS 333: FINAL PROJECT
+
 import unittest
 from unittest.mock import patch
 import builtins

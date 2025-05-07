@@ -1,3 +1,7 @@
+# Author: Rhiannon Barber
+# Date: May 6
+# CS 333: FINAL PROJECT
+
 import unittest
 from converter.registry import CurrencyRegistry
 from converter.currency import CurrencyError

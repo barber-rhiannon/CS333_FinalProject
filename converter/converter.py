@@ -1,3 +1,8 @@
+# Author: Rhiannon Barber
+# Date: May 6
+# CS 333: FINAL PROJECT
+
+
 from .registry import CurrencyRegistry
 from .currency import CurrencyError
 
